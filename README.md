@@ -131,7 +131,7 @@ Because the production build compiles to a single HTML file, it can be deployed 
 - **Vercel / Netlify**
 - **Any static file host** — just upload the contents of `dist/`
 
-Current production deployment: **[01a04ff1-4207-704a-b042-ac78b44d1695.arena.site](https://01a04ff1-4207-704a-b042-ac78b44d1695.arena.site/)**
+Current production deployment: **[01a04ff1-4207-704a-b042-ac78b44d1695.arena.site](https://moekyawaung-developer-portfolio-45-mndlvmp7x.vercel.app/)**
 
 ---
 
